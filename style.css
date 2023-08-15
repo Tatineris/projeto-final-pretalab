@@ -21,7 +21,7 @@ li {
     padding-bottom: 32px;
     padding-top: 32px;
     height: 60px;
-    background-color: #724796;
+    background-color: #dc4c65;
 }
 
 .header-menu nav {
@@ -93,7 +93,7 @@ li {
 
 .topico-principal {
     font-size: 36px;
-    color: #ff4dbc;
+    color: #8f396e;
 }
 
 .lista-item {
@@ -107,7 +107,7 @@ li {
 .lista-titulo {
     margin-bottom: 5px;
     font-size: 22px;
-    color: #661e4b;
+    color: #482a62;
     font-weight: 700;
 }
 
@@ -115,12 +115,12 @@ li {
     font-size: 18px;
     margin-top: 5px;
     line-height: 20px;
-    color: #828282;
+    color: #8b70a3;
     font-weight: 300;
 }
 
 .rodape {
-    background-color: #724796;
+    background-color: #dc4c65;
     height: 300px;
     display: flex;
     align-items: center;
